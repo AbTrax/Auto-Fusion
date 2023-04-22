@@ -1,11 +1,11 @@
+#
+<div align="center">
+  <img src="https://github.com/AbTrax/Auto-Fusion/blob/main/assets/AutoFusion.png" alt="Auto-Fusion Logo" width="600" height="600">
+</div>
+
 # 🚀 Auto-Fusion
 
 Auto-Fusion is an AI-assisted software integration tool that enables seamless interfacing between AI agents like AutoGPT and various applications, including productivity tools, websites, creative tools, and more. With Auto-Fusion, you can automate various tasks, simplify communication, and increase productivity across different areas of your work and personal life.
-
-#
-<div align="center">
-  <img src="https://github.com/AbTrax/Auto-Fusion/blob/main/assets/AutoFusion.png" alt="Auto-Fusion Logo" width="350" height="350">
-</div>
 
 
 ## 🌟 Key Features
